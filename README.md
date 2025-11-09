@@ -22,15 +22,15 @@ A simple and convenient web app for managing your shopping list. Create, edit, a
 
 1. Clone the repo 
 
-git clone https://github.com/your-username/grocery-list.git
+<span style="color: grey">git clone https://github.com/your-username/grocery-list.git</span>
 
-cd my-app
+<span style="color: grey">cd my-app</span>
 
 2. Launch Server development
 
 To start the development server, run the command:
 
-npm run dev
+<span style="color: grey">npm run dev</span> 
 
 ##### How to use
 
