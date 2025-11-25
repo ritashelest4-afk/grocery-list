@@ -10,6 +10,12 @@ A simple and convenient web app for managing your shopping list. Create, edit, a
 - Complete Delete: Easily remove unnecessary or incorrectly added positions.
 - Very convenient to use.
 
+### My project provides the following interface:
+
+![Application main screen](src/assets/grocery.png)
+
+![Demo application](src/assets/Grocery-list_edit_o.gif)
+
 ### What technologies were used
 
 - HTML5
@@ -22,15 +28,15 @@ A simple and convenient web app for managing your shopping list. Create, edit, a
 
 1. Clone the repo 
 
-<span style="color: grey">git clone https://github.com/your-username/grocery-list.git</span>
+git clone https://github.com/your-username/grocery-list.git
 
-<span style="color: grey">cd my-app</span>
+cd my-app
 
 2. Launch Server development
 
 To start the development server, run the command:
 
-<span style="color: grey">npm run dev</span> 
+npm run dev
 
 ##### How to use
 

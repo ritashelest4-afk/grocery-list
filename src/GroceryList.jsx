@@ -29,7 +29,7 @@ export class GroceryList extends Component {
 
     crossedWord(event) {
         const li = event.target;
-        li.classList.toggle('crossed');
+        li.classList.toggle("crossed");
     }
 
     onFormSubmit (e){
