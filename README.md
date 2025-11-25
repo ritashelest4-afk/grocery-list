@@ -14,7 +14,7 @@ A simple and convenient web app for managing your shopping list. Create, edit, a
 
 ![Application main screen](src/assets/grocery.png)
 
-![Demo application](src/assets/Grocery-list_edit_o.gif)
+![Demo application](src/assets/Grocery-list_edit_0.gif)
 
 ### What technologies were used
 
